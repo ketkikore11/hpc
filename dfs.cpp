@@ -39,11 +39,13 @@ cout << endl;
 return 0;
 }
 
+
+
 /*
 g++ -o dfs -fopenmp dfs.cpp
 ./dfs
 
-please enter nodes and edges 5 7
+Please enter nodes and edges 5 7
 0 1
 0 2
 2 3
@@ -51,7 +53,6 @@ please enter nodes and edges 5 7
 1 3
 1 4
 3 4
-1 1
-1 2 3 4
+0 1 2 3 4 
 
 */
