@@ -82,6 +82,10 @@ int main() {
     return 0;
 }
 /*
+1. cat filename.cpp
+2. g++ -o filename –fopenmp filename.cpp
+3. ./filename
+
 Enter the number of elements: 4
 Enter 4 integers:
 5 3 7 1
