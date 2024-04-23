@@ -100,6 +100,10 @@ int main() {
     return 0;
 }
 /*
+1. cat filename.cpp
+2. g++ -o filename –fopenmp filename.cpp
+3. ./filename
+
 Sequential Merge Sort Time: 0 seconds
 Parallel Merge Sort Time: 0 seconds 
 */
